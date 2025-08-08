@@ -1,0 +1,3 @@
+C:/apps/OLMoEDroid/app/.cxx/RelWithDebInfo/583j2k1i/arm64-v8a/CMakeFiles/llama_jni.dir
+C:/apps/OLMoEDroid/app/.cxx/RelWithDebInfo/583j2k1i/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/apps/OLMoEDroid/app/.cxx/RelWithDebInfo/583j2k1i/arm64-v8a/CMakeFiles/rebuild_cache.dir

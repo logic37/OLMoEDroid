@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <group android:scaleX="0.6"
+        android:scaleY="0.6"
+        android:translateX="21.6"
+        android:translateY="21.6">
+        
+        <!-- Chat bubble background -->
+        <path
+            android:fillColor="@color/white"
+            android:pathData="M20,2H4C2.9,2 2,2.9 2,4V22L6,18H20C21.1,18 22,17.1 22,16V4C22,2.9 21.1,2 20,2Z"/>
+        
+        <!-- AI symbol -->
+        <path
+            android:fillColor="@color/primary"
+            android:pathData="M12,8C13.1,8 14,8.9 14,10C14,11.1 13.1,12 12,12C10.9,12 10,11.1 10,10C10,8.9 10.9,8 12,8ZM12,14C13.1,14 14,14.9 14,16C14,17.1 13.1,18 12,18C10.9,18 10,17.1 10,16C10,14.9 10.9,14 12,14ZM12,2C13.1,2 14,2.9 14,4C14,5.1 13.1,6 12,6C10.9,6 10,5.1 10,4C10,2.9 10.9,2 12,2Z"/>
+        
+        <!-- Circuit lines -->
+        <path
+            android:strokeColor="@color/primary"
+            android:strokeWidth="1"
+            android:pathData="M6,8L10,8"/>
+        <path
+            android:strokeColor="@color/primary"
+            android:strokeWidth="1"
+            android:pathData="M6,12L10,12"/>
+        <path
+            android:strokeColor="@color/primary"
+            android:strokeWidth="1"
+            android:pathData="M6,16L10,16"/>
+    </group>
+</vector> 

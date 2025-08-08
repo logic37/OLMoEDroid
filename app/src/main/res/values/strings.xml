@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">OLMoE</string>
+    <string name="welcome_message">Welcome to OLMoE</string>
+    <string name="download_model">Download Model</string>
+    <string name="downloading_model">Downloading model...</string>
+    <string name="type_message">Type a message...</string>
+    <string name="ai_thinking">AI is thinking...</string>
+    <string name="send_message">Send message</string>
+    <string name="stop_generation">Stop generation</string>
+    <string name="clear_chat">Clear chat</string>
+    <string name="toggle_metrics">Toggle metrics</string>
+    <string name="copy_message">Copy message</string>
+    <string name="message_copied">Message copied</string>
+    <string name="error">Error</string>
+    <string name="ok">OK</string>
+</resources> 

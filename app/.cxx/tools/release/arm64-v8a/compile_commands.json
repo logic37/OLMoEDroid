@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/apps/OLMoEDroid/app/.cxx/RelWithDebInfo/583j2k1i/arm64-v8a",
+  "command": "C:\\Users\\logic\\AppData\\Local\\Android\\Sdk\\ndk\\25.2.9519653\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --sysroot=C:/Users/logic/AppData/Local/Android/Sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dllama_jni_EXPORTS -IC:/apps/OLMoEDroid/app/src/main/cpp -IC:/apps/OLMoEDroid/app/src/main/cpp/../jniLibs/arm64-v8a -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -g -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -fPIC -DGGML_USE_ACCELERATE=0 -DGGML_USE_OPENBLAS=0 -DGGML_USE_CUBLAS=0 -DGGML_USE_CLBLAST=0 -DGGML_USE_METAL=0 -DGGML_USE_MPI=0 -DGGML_USE_LLAMACPP=1 -DGGML_USE_OPENMP=0 -DLLAMA_USE_OPENMP=0 -o CMakeFiles\\llama_jni.dir\\llama_jni.cpp.o -c C:\\apps\\OLMoEDroid\\app\\src\\main\\cpp\\llama_jni.cpp",
+  "file": "C:\\apps\\OLMoEDroid\\app\\src\\main\\cpp\\llama_jni.cpp"
+}
+]
